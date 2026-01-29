@@ -8,4 +8,4 @@ for i in range(0,11):
 
 print("Number of Terms:\tEstimates: ")
 for i in range(len(e_x)-1):
-    print("{0} \t\t {1}".format(i, e_x[i]))
+    print("{0} \t\t\t {1}".format(i, e_x[i]))
